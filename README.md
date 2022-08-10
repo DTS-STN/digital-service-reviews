@@ -1,3 +1,4 @@
+
 # What are Digital Service Reviews?
 Applying the Government of Canada's Digital Standards in digital service design, development, and delivery.
 
@@ -26,3 +27,27 @@ The 10 Digital Standards are outlined in the Government of Canada Digital Standa
 8. Be good data stewards
 9. Design ethical services
 10. Collaborate widely
+
+## Product Approach to the Service Design Life Cycle
+Each assessment will be a little different to meet the varying needs and contexts of product teams.
+
+### What it *isn’t*
+- Criticizing or poking holes in each other's work (e.g. Yeah, but you can’t do that because X)
+- One-size fits all, fixed, compliance exercise
+- Unilateral, where assessors give directions and teams listen and implement
+
+### What it *is*
+
+  
+
+- Constructive feedback that helps build up each other’s work (e.g. Yeah, and have you thought about X instead? How could we address that together?)
+- An ongoing process designed with product teams and adapted to meet their varying needs or contexts as they evolve
+- A reciprocal relationship where product teams work with assessors to identify and make changes
+
+## We tested an Alpha Assessment with the Digital Experience and Client Data (DECD)’s Secure Client Hub team:
+| Alpha |  |
+|--|--|
+| End-of-phase Goal: | Decide whether the service design team is ready to proceed to Beta to start building and testing a functional prototype. |
+| Expectations: | <ul><li>Tested prototypes that demonstrate the potential design of the service</li><li>Vision and plan for how service will be built in Beta</li><li>Understanding of what's required for the service to be supported</li></ul> |
+| Responsibilities: | <ul><li>Alpha Learning Report</li><li>Alpha Standards Self-Assessment</li><li>Product Demo</li></ul> |
+| Potential Outcomes: | <ul><li>Proceed to Beta</li><li>Respond to gaps and next steps before proceeding to Beta</li><li>Pivot and re-enter Discovery or Alpha</li><li>Stop development</li></ul> |
