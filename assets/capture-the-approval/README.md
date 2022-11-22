@@ -1,4 +1,6 @@
 ## Overview
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 We developed Capture the Approval as a workshop activity for FWD50 2022. [read about it here] Here you’ll find the materials and information you need to run your own version of this game.
 
 The goal of the activity is to show the blockers that product teams have to face when trying to build and deliver services in the government context.  
@@ -78,8 +80,6 @@ We embedded blockers into gameplay (e.g. encouraging our approvers to get into c
 ## French translation of materials to come!
 
 ## Licensing
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
