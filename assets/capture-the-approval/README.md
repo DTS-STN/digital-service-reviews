@@ -41,7 +41,6 @@ Your team is testing out these ways of working but have to adhere to the way we 
 ### Our blockers
 We embedded blockers into gameplay (e.g. encouraging our approvers to get into character; wildcards). While many were pre-planned, some blockers arose naturally when we hosted the inaugural game and we had fun responding to day-of challenges (e.g. audio-visual challenges; missing chart paper)! We encourage you to roll with the flow and confront last minute changes and challenges by incorporating them into your game. Some blockers we incorporated are outlined in the chart below.
 
-Some of our blockers: 
 | What the blocker represents  | Blockers during gameplay |
 | ------------- | ------------- |
 | New direction (due to changing priorities, new senior leadership)  | Brainstorm an additional solution  |
