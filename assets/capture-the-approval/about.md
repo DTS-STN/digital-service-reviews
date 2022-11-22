@@ -47,7 +47,7 @@ Some of our blockers:
 | New direction (due to changing priorities, new senior leadership)  | Brainstorm an additional solution  |
 | Briefing new executive on something your team has already done  | Redraw one of the drawings from one of the tasks  |
 | Attrition, burnout | One team member sits out for a task |
-| No more funding | Do not complete task 4; write about lessons learned from tasks 1-3. This wildcard was only associated with the last task so that all teams could participant in all tasks |
+| No more funding | Do not complete task 4; write about lessons learned from tasks 1-3. This wildcard was only associated with the last task so that all teams could participate in all tasks |
 | Not having the right tools for the job, requiring teams to creatively respond to the challenge | AV difficulties, missing materials* (no chart paper or blue markers for drawing blue whales) |
 | New leadership, structural re-organization | Reassign new team leader |
 | Deadlines, insufficient time to complete task; approval delays | Game has been designed to feel rushed; approvers were asked to be unpredictable. | 
