@@ -10,7 +10,7 @@ This materials package includes what we used to run our workshop. Use it as is, 
 The game is meant to generate conversation with participants, so we encourage you to set aside enough time for fruitful post-game discussions.
 ## Materials needed
 To host this activity, you’ll need the following: 
-* A scenario of your choosing (problem space; use [ours](###our-scenario) or make your own)
+* A scenario of your choosing (problem space; use [ours](#our-scenario) or make your own)
 * Print materials
   * Handout with [game instructions]() 
   * Handout with [discussion questions]()
@@ -68,7 +68,7 @@ Some of our blockers:
 >We had one of our “approvers” only speak French, some of them would go on vacation, and we would occasionally ignore some tables. We ran into unplanned blockers and had fun incorporating them during our inaugural session. Many were easy to weave into our narrative. We introduced blockers only after task 1 was completed so that participants could get a feel for the game first.
 
 ### **Are there any restrictions on using these materials?**
->[No commercial use](##licensing). Please give credit and if possible, we’d love to hear about how your workshop went!
+>[No commercial use](#licensing). Please give credit and if possible, we’d love to hear about how your workshop went!
 
 ### **How can we run this activity virtually?**
 >We tested out this workshop using a Miro board for the team to draw virtually, but we only worked with one group of 5-8 people. The secret blockers were hidden until they applied. Ideally this workshop is run in-person if there are multiple groups. Feel free to adapt these instructions for a virtual space. Tell us how it goes, we’d love to see it!
