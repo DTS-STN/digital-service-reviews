@@ -1,3 +1,5 @@
+la traduction française à venir
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Cette œuvre est mise à disposition selon les termes de la
