@@ -5,7 +5,7 @@ We developed Capture the Approval as a workshop activity for FWD50 2022. [read a
 
 The goal of the activity is to show the blockers that product teams have to face when trying to build and deliver services in the government context.  
 
-The game is adaptable and fun so you can create something that works for your activity. We would love for you to recreate our activity or tailor it for your needs. Capture the Approval is meant to be fun for you, dear organizer, as well participants. 
+The game is adaptable so you can create something that works for your organization. Capture the Approval is meant to be fun for both the organizers and participants. 
 
 This materials package includes what we used to run our workshop. Use it as is, or customize the scenario and blockers for your needs. You’ll provide a scenario to participants who will complete tasks and seek approvals. You don’t have to follow our preamble exactly – just be sure to present a problem space and provide brief instructions for gameplay.
 
