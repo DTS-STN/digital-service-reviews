@@ -25,7 +25,7 @@ To host this activity, you’ll need the following:
 
 ## Our scenario and blockers
 ### Our scenario
->Good afternoon. I am from the office of the Assistant Deputy Minister of Dairy and Milk-Alternative Frozen Treats (DMAFT). ADM DMAFT couldn’t be here, but welcomes you all as our newest agile team working in a digital way. We’re trying out this human centred approach in delivering treats.
+>Good afternoon. I am from the office of the Assistant Deputy Minister of Dairy and Milk-Alternative Frozen Treats (DMAFT). ADM DMAFT couldn’t be here, but welcomes you all as our newest agile team working in a digital way. We’re trying out this human-centred approach in delivering treats.
 >
 >Of course, we aren’t changing any of the ways that the rest of us work, or the wider bureaucracy as a whole. 
 Your team is testing out these ways of working but have to adhere to the way we do things in the Dairy and Milk-Alternative Frozen Treats Branch. We have established processes, rules and governance that must be respected
