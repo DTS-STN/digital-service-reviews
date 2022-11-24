@@ -13,11 +13,11 @@ The game is meant to generate conversation with participants, so we encourage yo
 ## Materials needed
 To host this activity, you’ll need the following: 
 * A scenario of your choosing (problem space; use [ours](#our-scenario) or make your own)
-* Print materials
-  * Handout with [game instructions]() 
-  * Handout with [discussion questions]()
-  * [Wildcards]() (recommend 2 per table)
-  * [Guidance for approvers]()
+* Print materials ([PDF](), [DOCX]())
+  * Handout with game instructions 
+  * Handout with discussion questions
+  * Wildcards (recommend 2 per table)
+  * Guidance for approvers
 * Markers/pens
 * Chart paper
 * Stickers (for approvals)
