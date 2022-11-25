@@ -2,7 +2,7 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Cette œuvre est mise à disposition selon les termes de la
+Capturez l'approbation de [Service Canada](https://github.com/DTS-STN/digital-service-reviews) est mis à disposition selon les termes de la
 [licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
