@@ -78,7 +78,7 @@ We embedded blockers into gameplay (e.g. encouraging our approvers to get into c
 ## French translation of materials to come!
 
 ## Licensing
-This work is licensed under a
+Capture the Approval by [Service Canada](https://github.com/DTS-STN/digital-service-reviews) is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
