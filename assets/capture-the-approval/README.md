@@ -13,7 +13,7 @@ The game is meant to generate conversation with participants, so we encourage yo
 ## Materials needed
 To host this activity, you’ll need the following: 
 * A scenario of your choosing (problem space; use [ours](#our-scenario) or make your own)
-* Print materials ([PDF](https://github.com/DTS-STN/digital-service-reviews/blob/main/assets/files/CTA-print-materials-EN.pdf), [DOCX](https://github.com/DTS-STN/digital-service-reviews/blob/main/assets/files/CTA-print-materials-EN.docx))
+* Print materials ([PDF](https://github.com/DTS-STN/digital-service-reviews/blob/main/assets/capture-the-approval/CTA-print-materials-EN.pdf), [DOCX](https://github.com/DTS-STN/digital-service-reviews/blob/main/assets/capture-the-approval/CTA-print-materials-EN.docx))
   * Handout with game instructions 
   * Handout with discussion questions
   * Wildcards (recommend 2 per table)
