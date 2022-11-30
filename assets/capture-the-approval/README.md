@@ -1,7 +1,7 @@
 ## Overview
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-We developed Capture the Approval as a workshop activity for FWD50 2022. Read about it on [our blog](https://medium.com/@jane.lu/19eedf83fdc0). Here you’ll find the materials and information you need to run your own version of this game.
+We developed Capture the Approval as a workshop activity for FWD50 2022. Read about it on [our blog](https://medium.com/good-trouble/delivering-at-the-speed-of-trust-reflections-19eedf83fdc0). Here you’ll find the materials and information you need to run your own version of this game.
 
 The goal of the activity is to show the blockers that product teams have to face when trying to build and deliver services in the government context.  
 
@@ -55,7 +55,7 @@ We embedded blockers into gameplay (e.g. encouraging our approvers to get into c
 
 ## FAQs
 ### **What was the response like when you ran this workshop at FWD50?**
->Read about it on [our blog](https://medium.com/@jane.lu/19eedf83fdc0) 🙂. 
+>Read about it on [our blog](https://medium.com/good-trouble/delivering-at-the-speed-of-trust-reflections-19eedf83fdc0) 🙂. 
 
 ### **Any other gameplay mechanics to keep in mind?**
 #### Psychological safety
