@@ -1,7 +1,7 @@
 ## Overview
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-We developed Capture the Approval as a workshop activity for FWD50 2022. Read about it on [our blog](https://medium.com/good-trouble). Here you’ll find the materials and information you need to run your own version of this game.
+We developed Capture the Approval as a workshop activity for FWD50 2022. Read about it on [our blog](https://medium.com/@jane.lu/19eedf83fdc0). Here you’ll find the materials and information you need to run your own version of this game.
 
 The goal of the activity is to show the blockers that product teams have to face when trying to build and deliver services in the government context.  
 
@@ -55,7 +55,7 @@ We embedded blockers into gameplay (e.g. encouraging our approvers to get into c
 
 ## FAQs
 ### **What was the response like when you ran this workshop at FWD50?**
->Read about it on [our blog](medium.com/good-trouble) 🙂. 
+>Read about it on [our blog](https://medium.com/@jane.lu/19eedf83fdc0) 🙂. 
 
 ### **Any other gameplay mechanics to keep in mind?**
 #### Psychological safety
@@ -73,7 +73,7 @@ We embedded blockers into gameplay (e.g. encouraging our approvers to get into c
 >We tested out this workshop using a Miro board for the team to draw virtually, but we only worked with one group of 5-8 people. The secret blockers were hidden until they applied. Ideally this workshop is run in-person if there are multiple groups. Feel free to adapt these instructions for a virtual space. Tell us how it goes, we’d love to see it!
 
 ### **Can I give feedback on this workshop/materials?**
->100%. Please feel free to reach out to [Jordan Storozuk](mailto:jordan.storozuk@servicecanada.gc.ca), [Lindsay Chan](mailto:lindsay.chan@hrsdc-rhdcc.gc.ca), [Jane Lu](mailto:jane.lu@servicecanada.gc.ca), or [Aaron Jaffrey](mailto:aaron.jaffery@servicecanada.gc.ca).
+>100%. Please feel free to reach out to [Jordan Storozuk](mailto:jordan.storozuk@servicecanada.gc.ca), [Lindsay Chan](mailto:lindsay.chan@hrsdc-rhdcc.gc.ca), [Jane Lu](mailto:jane.lu@servicecanada.gc.ca), or [Aaron Jaffery](mailto:aaron.jaffery@servicecanada.gc.ca).
 
 ## French translation of materials to come!
 
