@@ -62,7 +62,7 @@ We embedded blockers into gameplay (e.g. encouraging our approvers to get into c
 >This game is meant to show the frustrations that product teams experience, but make sure that your participants are not feeling bad or ashamed because they aren’t doing the activity “correctly.” We encourage that you intentionally foster psychological safety for your participants—make it clear that there are no wrong answers!
 
 #### Blockers
->IIn general, we introduced blockers with a real-life parallel. We wanted to avoid frustrating participants only for the sake of adding chaos. Feel free to come up with your own that you think will resonate. 
+>In general, we introduced blockers with a real-life parallel. We wanted to avoid frustrating participants only for the sake of adding chaos. Feel free to come up with your own that you think will resonate. 
 >
 >We had one of our “approvers” only speak French, some of them would go on vacation, and we would occasionally ignore some tables. We ran into unplanned blockers and had fun incorporating them during our inaugural session. Many were easy to weave into our narrative. We introduced blockers only after task 1 was completed so that participants could get a feel for the game first.
 
@@ -74,8 +74,6 @@ We embedded blockers into gameplay (e.g. encouraging our approvers to get into c
 
 ### **Can I give feedback on this workshop/materials?**
 >100%. Please feel free to reach out to [Jordan Storozuk](mailto:jordan.storozuk@servicecanada.gc.ca), [Lindsay Chan](mailto:lindsay.chan@hrsdc-rhdcc.gc.ca), [Jane Lu](mailto:jane.lu@servicecanada.gc.ca), or [Aaron Jaffery](mailto:aaron.jaffery@servicecanada.gc.ca).
-
-## French translation of materials to come!
 
 ## Licensing
 Capture the Approval by [Service Canada](https://github.com/DTS-STN/digital-service-reviews) is licensed under a
