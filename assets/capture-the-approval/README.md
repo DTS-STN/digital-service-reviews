@@ -75,8 +75,6 @@ We embedded blockers into gameplay (e.g. encouraging our approvers to get into c
 ### **Can I give feedback on this workshop/materials?**
 >100%. Please feel free to reach out to [Jordan Storozuk](mailto:jordan.storozuk@servicecanada.gc.ca), [Lindsay Chan](mailto:lindsay.chan@hrsdc-rhdcc.gc.ca), [Jane Lu](mailto:jane.lu@servicecanada.gc.ca), or [Aaron Jaffery](mailto:aaron.jaffery@servicecanada.gc.ca).
 
-## French translation of materials to come!
-
 ## Licensing
 Capture the Approval by [Service Canada](https://github.com/DTS-STN/digital-service-reviews) is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
