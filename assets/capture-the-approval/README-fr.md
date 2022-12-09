@@ -77,8 +77,6 @@ Nous avons intégré des obstacles à l’expérience de jeu (p. ex., encourager
 >Absolument. N’hésitez pas à communiquer avec [Jordan Storozuk](mailto:jordan.storozuk@servicecanada.gc.ca), [Lindsay Chan](mailto:lindsay.chan@hrsdc-rhdcc.gc.ca), [Jane Lu](mailto:jane.lu@servicecanada.gc.ca) ou [Aaron Jaffery](mailto:aaron.jaffery@servicecanada.gc.ca).
 
 ## Licence d’utilisation
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
 Capturez l'approbation de [Service Canada](https://github.com/DTS-STN/digital-service-reviews) est mis à disposition selon les termes de la
 [licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International][cc-by-nc-sa].
 
