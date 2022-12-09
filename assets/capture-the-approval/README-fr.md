@@ -54,7 +54,7 @@ Nous avons intégré des obstacles à l’expérience de jeu (p. ex., encourager
 
 ## Foire aux questions
 ### **Quelle a été la réaction lorsque vous avez mis ce jeu en pratique à la conférence du FWD50?**
->Consultez notre blogue à ce sujet (medium.com/good-trouble) 🙂. 
+>Consultez [notre blogue](https://medium.com/good-trouble/delivering-at-the-speed-of-trust-reflections-19eedf83fdc0) à ce sujet 🙂. 
 
 ### **Y a-t-il d’autres mécanismes de jeu à garder à l’esprit?**
 #### Sécurité psychologique
